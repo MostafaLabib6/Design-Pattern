@@ -1,5 +1,3 @@
-I can help you create a basic template for a README file for your project on GitHub. Here's a sample README file that you can use as a starting point:
-
 # Design Pattern Examples
 
 This repository contains examples of design patterns implemented in C#.
