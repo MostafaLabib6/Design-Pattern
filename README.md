@@ -8,8 +8,6 @@ The design patterns showcased here can be a helpful resource for developers look
 - [Design Patterns](#design-patterns)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Design Patterns
 
