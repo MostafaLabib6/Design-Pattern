@@ -13,8 +13,8 @@ The design patterns showcased here can be a helpful resource for developers look
 
 The following design patterns are included in this repository:
 
-1. [Singleton Pattern](Singleton)
-2. [Factory Mthod](Factory Method)
+1. [Singleton Pattern](https://github.com/MostafaLabib6/Design-Pattern/tree/master/Design%20Pattern/Singleton)
+2. [Factory Method](https://github.com/MostafaLabib6/Design-Pattern/tree/master/Design%20Pattern/Factory-Method)
 
 Each design pattern is organized in its own directory, containing code examples and explanations.
 
